@@ -1,0 +1,5 @@
+Test Case 1 – Login to the application
+Pre-condition: User has a valid account
+Step 1: Open the login page
+Step 2: Enter valid username and password
+Expected: User is logged in and redirected to the dashboard
