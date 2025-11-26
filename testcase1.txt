@@ -7,3 +7,5 @@ Step 3: Click the Login button
 Step 4: Verify that the dashboard is displayed
 Step 5: Try to log in with an invalid password
 Expected: An error message appears and user remains on login page
+Step 5: Try to log in with an invalid password
+Expected: An error message appears and user remains on login page
